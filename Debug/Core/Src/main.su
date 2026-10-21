@@ -1,0 +1,11 @@
+../Core/Src/main.c:91:6:Clock_SetTime	24	static
+../Core/Src/main.c:106:6:Clock_GetTime	32	static
+../Core/Src/main.c:119:6:updateDisplay	32	static
+../Core/Src/main.c:152:6:checkAlarm	16	static
+../Core/Src/main.c:181:6:updateBuzzer	16	static
+../Core/Src/main.c:230:5:main	32	static
+../Core/Src/main.c:300:6:SystemClock_Config	88	static
+../Core/Src/main.c:345:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:379:13:MX_RTC_Init	16	static
+../Core/Src/main.c:437:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:477:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,6 @@
+../Core/Src/button.c:13:15:readEncoder	5
+../Core/Src/button.c:37:6:Encoder_Handle	21
+../Core/Src/button.c:100:13:shortPress	10
+../Core/Src/button.c:165:13:longPress	4
+../Core/Src/button.c:197:6:Button_Handle	11
+../Core/Src/button.c:229:6:Button_Init	1

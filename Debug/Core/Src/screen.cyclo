@@ -1,0 +1,7 @@
+../Core/Src/screen.c:17:6:Screen_ShowWelcome	1
+../Core/Src/screen.c:34:6:Screen_DrawClock	2
+../Core/Src/screen.c:61:6:Screen_DrawMenu	4
+../Core/Src/screen.c:98:6:Screen_DrawSetTime	3
+../Core/Src/screen.c:138:6:Screen_DrawSetAlarm	4
+../Core/Src/screen.c:178:6:Screen_DrawAlarmRinging	1
+../Core/Src/screen.c:198:6:Screen_ShowSaved	1

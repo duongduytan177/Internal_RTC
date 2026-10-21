@@ -1,0 +1,6 @@
+../Core/Src/button.c:13:15:readEncoder	16	static
+../Core/Src/button.c:37:6:Encoder_Handle	16	static
+../Core/Src/button.c:100:13:shortPress	16	static
+../Core/Src/button.c:165:13:longPress	8	static
+../Core/Src/button.c:197:6:Button_Handle	16	static
+../Core/Src/button.c:229:6:Button_Init	8	static
